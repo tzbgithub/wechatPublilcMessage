@@ -1,0 +1,4 @@
+1 修改APPID和APPSECRET为自己的测试号码
+2 运行
+3 将测试号创建的模板ID和测试号中的openid在pushMessagePostBody.json中修改
+4 讲json文件中的内容粘贴在请求的接口的body中，请求接口http://localhost:8081/push/message
